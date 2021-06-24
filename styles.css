@@ -1,0 +1,78 @@
+#title{
+  background-color: #da9ff9;
+  color: #fff;
+  padding: 3rem;
+}
+
+ h1{
+font-family: 'Montserrat-black', sans-serif;
+font-size: 3rem;
+
+
+ }
+.nav-link{
+  font-size: 1.2rem;
+  font-family: "Montserrat-light";
+}
+.navbar{
+  padding: 2rem;
+}
+.download-but
+{
+  margin: 5% 3% 5% 0%;
+}
+.image-title{
+  width: 40%;
+  transform: rotate(-10deg);
+}
+#features{
+  padding: 7% 7%;
+}
+.fe{
+text-align: center;
+padding: 5%;
+}
+.dogimg
+{
+  position: relative;
+  left:7%;
+padding: 5%;
+}
+.f{
+  position: relative;
+  top: 30%;
+  left: 10%;
+}
+#testimonials
+{
+  background-color: #da9ff9;
+  color: #fff;
+  padding: 3rem;
+
+}
+.h{
+  padding: 10%;
+}
+.news-image
+{
+padding: 1em;
+}
+#press{
+  align-items: center;
+  padding: 5%
+}
+#pricing{
+  background-color: #da9ff9;
+  color: #fff;
+  padding: 3rem;
+
+
+}
+.card{
+  background-color: #F6B8B8;
+  border-radius: 3%;
+margin:  2px;
+}
+.hi{
+  width
+}
