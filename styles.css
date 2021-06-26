@@ -1,5 +1,5 @@
 #title{
-  background-color: #da9ff9;
+  background-color: #E23E57;
   color: #fff;
   padding: 3rem;
 }
@@ -27,6 +27,7 @@ font-size: 3rem;
 }
 #features{
   padding: 7% 7%;
+  color: #88304E;
 }
 .fe{
 text-align: center;
@@ -37,6 +38,7 @@ padding: 5%;
   position: relative;
   left:7%;
 padding: 5%;
+border-radius: 100%;
 }
 .f{
   position: relative;
@@ -45,7 +47,7 @@ padding: 5%;
 }
 #testimonials
 {
-  background-color: #da9ff9;
+  background-color: #88304E;
   color: #fff;
   padding: 3rem;
 
@@ -62,17 +64,20 @@ padding: 1em;
   padding: 5%
 }
 #pricing{
-  background-color: #da9ff9;
+  background-color: #522546;
   color: #fff;
   padding: 3rem;
 
 
 }
 .card{
-  background-color: #F6B8B8;
+  background-color: #E23E57;
   border-radius: 3%;
 margin:  2px;
 }
 .hi{
   width
+}
+.hh3{
+  font-faimly: Montserrat;
 }
